@@ -9,3 +9,19 @@ h1 {
   color:#22e55e;
   font-size: 35px;
 }
+p{
+  color:#94a3;
+  font-size: 18px;
+}
+button{
+  background-color:blueviolet;
+  color:cadetblue;
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover {
+  background-color:darkgray
+}
